@@ -1,4 +1,4 @@
-#Iniciando com o Git 
+# Iniciando com o Git 
 
 Readme é um arquivo para documentar.
 
