@@ -2,4 +2,3 @@ mercurio
 venus
 terra
 jupiter
-não conheço
